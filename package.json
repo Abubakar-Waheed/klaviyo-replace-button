@@ -1,0 +1,12 @@
+{
+  "name": "klaviyo-replace-button",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Chrome extension that restores Klaviyo's hidden image Replace button.",
+  "scripts": {
+    "test": "node test-extension.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}
